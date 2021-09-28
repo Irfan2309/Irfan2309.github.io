@@ -1,7 +1,7 @@
-#F28WP Lab 1
+# F28WP Lab 1
 
 
-###Link to website: [Irfan2309.github.io](https://irfan2309.github.io)
+### Link to website: [Irfan2309.github.io](https://irfan2309.github.io)
 ***
 
 <p>This lab is designed to give you practice setting-up, editing, developing and maintain a GitHub repository.</p>
