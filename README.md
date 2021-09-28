@@ -14,3 +14,6 @@
 
 <p>The "about" and "blog" folders contain the code for their respective subpages</p>
 <p>And the "CSS" folder contains the style layout for the webpage</p>
+***
+
+!["Repository Screenshot"](/path/to/Repo.png) "Repository"
